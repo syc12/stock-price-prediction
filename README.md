@@ -1,4 +1,4 @@
-# msc-dissertation-project
+# stock-price-prediction
 This was submitted on the 21st August 2020 as part of my dissertation project for the Master's in Computer Science degree at Newcastle University. 
 In this project, I investigated the existing and new methods of predicting stock price. 
 In particular, the ARIMA model is a robust and established model. 
